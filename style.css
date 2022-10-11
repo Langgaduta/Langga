@@ -73,7 +73,7 @@ a {
 }
 
 #content-img {
-    background-image: url(file:///C:/Users/User/Documents/html%20sabtu/img/header%20html.jpg);
+    background-image: url(img/header\ html.jpg);
     background-position: center;
     background-size: cover;
     min-height: 200px;
